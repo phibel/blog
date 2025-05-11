@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jetbrains IDE
+.idea
+
+# Vite cache
+node_modules/
+js-three/node_modules/
+js-three/.vite/
+
+# Build artifacts
+site/
+js-three/dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
