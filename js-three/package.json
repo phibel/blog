@@ -1,0 +1,18 @@
+{
+  "name": "js-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "vite build && npx terser dist/3DViewer.js -o ../docs/assets/js/3DViewer.min.js --compress --mangle"
+  },
+  "keywords": [],
+  "author": "phibel",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "terser": "^5.39.0",
+    "three": "^0.176.0",
+    "vite": "^6.3.5"
+  }
+}
