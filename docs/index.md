@@ -1,6 +1,6 @@
 # Three.js Viewer
 
-<div id="viewerContainer" style="width: 100%; height: 600px; position: relative;">
+<div id="swup" class="transition-fade" style="width: 100%; height: 600px; position: relative;">
   <canvas
     class="renderCanvas"
     data-model-src="assets/models/hisense_tv_unterschrank_part-Part.wrl"
@@ -30,5 +30,3 @@
     z-index: 10;
   ">⛶ Fullscreen</button>
 </div>
-
-<script type="module" src="assets/js/3DViewer.min.js"></script>

@@ -3,7 +3,7 @@
 TV cabinet with different drop widths (705mm, 805mm, 905mm and 990mm) for the center speaker.
 
 ## Option 1: Drop for center speaker 705mm wide
-<div id="viewerContainer" style="width: 100%; height: 600px; position: relative;">
+<div id="swup" class="transition-fade" style="width: 100%; height: 600px; position: relative;">
   <canvas
     class="renderCanvas"
     data-model-src="hisense_tv_unterschrank_center_705mm.wrl"
@@ -36,7 +36,7 @@ TV cabinet with different drop widths (705mm, 805mm, 905mm and 990mm) for the ce
 
 
 ## Option 2: Drop for center speaker 805mm wide
-<div id="viewerContainer" style="width: 100%; height: 600px; position: relative;">
+<div id="swup" class="transition-fade" style="width: 100%; height: 600px; position: relative;">
   <canvas
     class="renderCanvas"
     data-model-src="hisense_tv_unterschrank_center_805mm.wrl"
@@ -69,7 +69,7 @@ TV cabinet with different drop widths (705mm, 805mm, 905mm and 990mm) for the ce
 
 
 ## Option 3: Drop for center speaker 905mm wide
-<div id="viewerContainer" style="width: 100%; height: 600px; position: relative;">
+<div id="swup" class="transition-fade" style="width: 100%; height: 600px; position: relative;">
   <canvas
     class="renderCanvas"
     data-model-src="hisense_tv_unterschrank_center_905mm.wrl"
@@ -102,7 +102,7 @@ TV cabinet with different drop widths (705mm, 805mm, 905mm and 990mm) for the ce
 
 
 ## Option 4: Drop for center speaker 990mm wide
-<div id="viewerContainer" style="width: 100%; height: 600px; position: relative;">
+<div id="swup" class="transition-fade" style="width: 100%; height: 600px; position: relative;">
   <canvas
     class="renderCanvas"
     data-model-src="hisense_tv_unterschrank_center_990mm.wrl"
@@ -132,5 +132,3 @@ TV cabinet with different drop widths (705mm, 805mm, 905mm and 990mm) for the ce
     z-index: 10;
   ">⛶ Fullscreen</button>
 </div>
-
-<script type="module" src="/assets/js/3DViewer.min.js"></script>
